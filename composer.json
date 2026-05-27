@@ -1,0 +1,7 @@
+{
+  "name": "journaldigi/blog-backend",
+  "description": "Blog journalistique - Backend Heroku",
+  "require": {
+    "php": "^8.0"
+  }
+}
